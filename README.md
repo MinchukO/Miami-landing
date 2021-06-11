@@ -8,5 +8,5 @@
 4. Adopt the page to mobile screens(media queries, responsive design)
 5. Gulp
 
-  [DEMO LINK](https://minchuko.github.io/Maimi-landing/)
+  [DEMO LINK](https://minchuko.github.io/Miami-landing/)
 
